@@ -1,5 +1,5 @@
 {
-  "name": "edgar-orozco/docsigner",
+  "name": "jmloli81/docsigner",
   "description": "Firma digital y autógrafa digital",
   "keywords": ["Laravel"],
   "authors": [
@@ -8,7 +8,7 @@
       "email": "eorozco@lxl.mx"
     }
   ],
-  "homepage": "https://github.com/edgar-orozco/docsigner",
+  "homepage": "https://github.com/jmloli81/docsigner",
   "require": {
     "php": "^7.4",
     "laravel/framework": "^6.0",
